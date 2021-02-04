@@ -21,9 +21,5 @@ ejemplo <- read_html("https://news.un.org/es/story/2021/02/1487402") %>%
 
 ejemplo
 ----------------------------------------------------------------------------------------
-  
-  ##Crear un repositorio clonar en la computadora, SUBIR ESTE REPOSITORIO A GITHUB
-  
-  print(brecha_data)  
-names(brecha_data)
+
 
